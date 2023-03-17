@@ -13,7 +13,7 @@ This will also be beneficial for the docotor because he/she can notify the patie
 - Users (Patients and Doctors) can change passwords
 - Users (Patients and Doctors) can delete their account
 
-### Business Feature
+### Business Features:
 1. The app allows for tracking of patients record and checkup history. The doctor to whom the patient is assigned to has access to this information and can add additional information. The patient can view the posts made by the doctor
 2. The patients can see what the doctors specialize in
 
