@@ -1,9 +1,9 @@
 # AMP-project
 
 
-     Group Memeber                     Id                        Section
-  
-YEABSRA AEMRO                      UGR/5733/12                       2
-MARIA GEBREMEDHIN                  ATR/1627/11                       IT ADD
-BINYAM LEMMA                       ATR/1341/10                       IT ADD
-KHANSA TAHIR                       ATE/3185/11                       IT ADD
+
+#### Group Members
+1. Yeabsra Aemro              UGR/5733/12
+2. Maria Gebremedhin          ATR/1627/11
+3. Binyam Lemma               ATR/1341/10
+4. Khansa Tahir               ATR/3185/11
