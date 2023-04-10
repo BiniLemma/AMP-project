@@ -26,11 +26,11 @@ This will also be beneficial for the docotor because he/she can notify the patie
 | BINYAM LEMMA | ATR/1341/10 | IT ADD |
 | KHANSA TAHIR | ATR/3185/11 | IT ADD |<br>
 
-# SparkSeeker -  Electronic Vehicle charging station finder app 
+# ChargeRoute -  Electronic Vehicle charging station finder app 
 
 
 ## Description
-SparkSeeker is a Electronic Vehicle charging station finder application built using flutter that assists Electronic Vehicle (EV) owners to find the nearest charging station around their area with their compatible plug types.<br>
+ChargeRoute is a Electronic Vehicle charging station finder application built using flutter that assists Electronic Vehicle (EV) owners to find the nearest charging station around their area with their compatible plug types.<br>
 
 
 ### Authentication/Authorization Features:
