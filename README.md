@@ -24,7 +24,7 @@ This will also be beneficial for the docotor because he/she can notify the patie
 | YEABSRA AEMRO | UGR/5733/12 | Section 2 |
 | MARIA GEBREMEDHIN | ATR/1627/11 | IT ADD |
 | BINYAM LEMMA | ATR/1341/10 | IT ADD |
-| KHANSA TAHIR | ATR/3185/11 | IT ADD | <br>
+| KHANSA TAHIR | ATR/3185/11 | IT ADD |<br>
 
 # SparkSeeker -  Electronic Vehicle charging station finder app 
 
