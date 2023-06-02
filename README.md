@@ -1,4 +1,4 @@
-# Doctor Appointment APP
+# Doctor Appointment APP - Previously Rejected
 
 
 ## Description
@@ -26,7 +26,7 @@ This will also be beneficial for the docotor because he/she can notify the patie
 | BINYAM LEMMA | ATR/1341/10 | IT ADD |
 | KHANSA TAHIR | ATR/3185/11 | IT ADD |<br>
 
-# ChargeRoute -  Electronic Vehicle charging station finder app 
+# ChargeRoute -  Electronic Vehicle charging station finder app - Currently Approved
 
 
 ## Description
